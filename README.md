@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @GlorygloryK , a Web Developer in the making
+- 👀 I’m interested in creating seemless user experiences and bringing ideas to life through coding 
+- 🌱 I’m currently learning Javascript and Python and have learnt HMTL and CSS 
+- 💞️ I’m looking to collaborate on all things websites and apps
+- 📫 Find me on Linkedin: https://uk.linkedin.com/in/glory-kinsiedi-matonga
+
+<!---
+GlorygloryK/GlorygloryK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
